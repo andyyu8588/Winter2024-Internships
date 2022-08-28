@@ -42,8 +42,7 @@ To contribute:
 
 | Name  |  Location | Application Period | Notes |
 |---|---|-------------|-------------|
-| [Amazon](https://www.amazon.jobs/en/jobs/2110678/software-development-engineer-internship-2023-us) | Seattle | Open | Software Development Engineer Internship - 2023 (US) Job ID: 2110678 |
-| [Amazon](https://www.amazon.jobs/en/jobs/2114265/software-development-engineer-intern-2023-canada) | Vancouver | Open | Software Development Engineer Intern - 2023 (Canada) Job ID: 2114265 |
+| [Amazon](https://www.amazon.jobs/en/teams/internships-for-students?offset=0&result_limit=10&sort=relevant&category%5B%5D=software-development&country%5B%5D=USA&country%5B%5D=CAN&distanceType=Mi&radius=24km&latitude=&longitude=&loc_group_id=&loc_query=&base_query=&city=&country=&region=&county=&query_options=&) | Many locations in Canada and US | Open | Front-End Engineer Internship, UX Researcher Intern, UX Designer Internship, Software Development Engineer Internship
 | [Tesla](https://www.tesla.com/en_CA/careers/search/?country=US&query=software%20Internship%20spring) | Palo Alto, Fremont, Austin | Open | Multiple positions |
 | ~~Google~~ | Waterloo, Toronto, Montreal | Closed | Software Engineering Intern, BS Winter 2023
 | [Cisco (Meraki)](https://jobs.cisco.com/jobs/ProjectDetail/Full-Stack-Software-Engineer-Intern-Winter-Spring-2023-Meraki/1368015) | San Francisco | Open | Full Stack Software Engineer Intern - Winter/Spring 2023 (Meraki)
@@ -59,6 +58,10 @@ To contribute:
 | [LinkedIn](https://www.linkedin.com/jobs/search/?f_C=1337&geoId=103644278&keywords=intern%20winter%202023&location=United%20States&position=1&pageNum=0) | Sunnyvale | Open | Backend - Systems and Infrastructure Engineer Intern, Software Engineer Intern, Mobile Engineer Intern, Frontend Engineer Intern
 | [Jane Street](https://www.janestreet.com/join-jane-street/position/6280534002/) | New York | Open | Software Engineer Internship, January - April (Co-op)
 | [Neuralink](https://boards.greenhouse.io/neuralink/jobs/5255513003) | Fremont | Open | Software Engineer (Winter 2023 Internship)
+| [D2L](https://www.d2l.com/careers/jobs/software-developer-winter-2023-co-op-/4511783) | Kitchener, St. John's, Toronto, Vancouver, Winnipeg, Remote (Canada) | Open | Software Developer, Winter 2023 Co-op
+| [A Thinking Ape](https://boards.greenhouse.io/athinkingape/jobs/4488770) | Vancouver | Open | Software Engineer Co-op/Intern [Jan 2023)
+| [Konrad Group](https://www.konrad.com/careers/internships) | Toronto, Vancouver | Open | Winter 2023 - Software Developer Intern (4 months)
+| [Verkada](https://www.verkada.com/careers/#open-positions) | San Mateo | Open | Backend Software Engineering Intern, Embedded Systems Engineering Intern, Frontend Software Engineering Intern
 
 ## Other Semesters
 
