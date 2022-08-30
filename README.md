@@ -62,6 +62,7 @@ To contribute:
 | [A Thinking Ape](https://boards.greenhouse.io/athinkingape/jobs/4488770) | Vancouver | Open | Software Engineer Co-op/Intern [Jan 2023)
 | [Konrad Group](https://www.konrad.com/careers/internships) | Toronto, Vancouver | Open | Winter 2023 - Software Developer Intern (4 months)
 | [Verkada](https://www.verkada.com/careers/#open-positions) | San Mateo | Open | Backend Software Engineering Intern, Embedded Systems Engineering Intern, Frontend Software Engineering Intern
+| [Hugging Face](https://apply.workable.com/huggingface/j/82D6C5689D/) | Remote (US) | Open | Data Engineer for Speech/Audio Datasets (Internship)
 
 ## Other Semesters
 
