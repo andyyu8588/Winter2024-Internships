@@ -52,7 +52,7 @@ To contribute:
 | [Apple](https://jobs.apple.com/en-us/details/200389054/software-engineering-internship?team=STDNT) | Cupertino | Open | Software Engineering Internship
 | [Cohere](https://jobs.lever.co/cohere/2252200f-104f-4d95-840d-c1d9cbcfda9b) | Toronto, Palo Alto, San Francisco, London, Remote | Open | Machine Learning Intern (January 2023)
 | [Lyft](https://www.lyft.com/careers/early-talent) | New York, Seattle, San Francisco | Open | Software Engineer Intern, Generalist, Frontend & Associate Product Manager
-| [Instabase](https://instabase.com/careers/) | New York, Menlo Park, San Francisco | Open | Software Engineer, Intern (Backend, Frontend/Fullstack)
+| ~~Instabase~~ | New York, Menlo Park, San Francisco | Closed | Software Engineer, Intern (Backend, Frontend/Fullstack)
 | [Figma](https://boards.greenhouse.io/figma/jobs/4595340004) | New York, San Francisco | Open | Software Engineer Intern (2023)
 | [Datadog](https://app.ripplematch.com/job/datadog/692468c7/) | Boston, New York | Open | Software Engineer - Intern
 | [LinkedIn](https://www.linkedin.com/jobs/search/?f_C=1337&geoId=103644278&keywords=intern%20winter%202023&location=United%20States&position=1&pageNum=0) | Sunnyvale | Open | Backend - Systems and Infrastructure Engineer Intern, Software Engineer Intern, Mobile Engineer Intern, Frontend Engineer Intern
