@@ -63,6 +63,7 @@ To contribute:
 | [Konrad Group](https://www.konrad.com/careers/internships) | Toronto, Vancouver | Open | Winter 2023 - Software Developer Intern (4 months)
 | [Verkada](https://www.verkada.com/careers/#open-positions) | San Mateo | Open | Backend Software Engineering Intern, Embedded Systems Engineering Intern, Frontend Software Engineering Intern
 | [Hugging Face](https://apply.workable.com/huggingface/j/82D6C5689D/) | Remote (US) | Open | Data Engineer for Speech/Audio Datasets (Internship)
+| [Stripe](https://stripe.com/jobs/search?query=Software+Engineering+Intern) | San Francisco, Seattle, New York | Open | Software Engineering Intern
 
 ## Other Semesters
 
