@@ -64,6 +64,7 @@ To contribute:
 | [Verkada](https://www.verkada.com/careers/#open-positions) | San Mateo | Open | Backend Software Engineering Intern, Embedded Systems Engineering Intern, Frontend Software Engineering Intern
 | [Hugging Face](https://apply.workable.com/huggingface/j/82D6C5689D/) | Remote (US) | Open | Data Engineer for Speech/Audio Datasets (Internship)
 | [Stripe](https://stripe.com/jobs/search?query=Software+Engineering+Intern) | San Francisco, Seattle, New York | Open | Software Engineering Intern
+| [HubSpot](https://www.hubspot.com/careers/jobs?hubs_signup-cta=careers-nav-cta&page=1#office=remote;department=product-ux-engineering;roleType=intern;) | Remote - (US, Canada) | Open | Software Engineering Co-op
 
 ## Other Semesters
 
