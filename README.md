@@ -65,6 +65,7 @@ To contribute:
 | [Hugging Face](https://apply.workable.com/huggingface/j/82D6C5689D/) | Remote (US) | Open | Data Engineer for Speech/Audio Datasets (Internship)
 | [Stripe](https://stripe.com/jobs/search?query=Software+Engineering+Intern) | San Francisco, Seattle, New York | Open | Software Engineering Intern
 | [HubSpot](https://www.hubspot.com/careers/jobs?hubs_signup-cta=careers-nav-cta&page=1#office=remote;department=product-ux-engineering;roleType=intern;) | Remote - (US, Canada) | Open | Software Engineering Co-op
+| [Snowflake](https://careers.snowflake.com/us/en/search-results?rk=l-university-recruiting&sortBy=Most%20relevant) | San Mateo, Bellevue, Toronto | Open | SOFTWARE ENGINEER INTERN (INFRASTRUCTURE AUTOMATION, CORE/DATABASE ENGINEERING)
 
 ## Other Semesters
 
