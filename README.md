@@ -66,6 +66,8 @@ To contribute:
 | [Stripe](https://stripe.com/jobs/search?query=Software+Engineering+Intern) | San Francisco, Seattle, New York | Open | Software Engineering Intern
 | [HubSpot](https://www.hubspot.com/careers/jobs?hubs_signup-cta=careers-nav-cta&page=1#office=remote;department=product-ux-engineering;roleType=intern;) | Remote - (US, Canada) | Open | Software Engineering Co-op
 | [Snowflake](https://careers.snowflake.com/us/en/search-results?rk=l-university-recruiting&sortBy=Most%20relevant) | San Mateo, Bellevue, Toronto | Open | SOFTWARE ENGINEER INTERN (INFRASTRUCTURE AUTOMATION, CORE/DATABASE ENGINEERING)
+| [PathAI](https://www.pathai.com/join-our-team/careers/?gh_jid=6327790002) | Boston, MA | Open | Software Engineer Intern (2023)
+| [Scale AI](https://boards.greenhouse.io/scaleai/jobs/4037917005?s=LinkedIn&source=LinkedIn) | San Francisco | Open | Software Engineering Intern (2023)
 
 ## Other Semesters
 
