@@ -69,6 +69,7 @@ To contribute:
 | [PathAI](https://www.pathai.com/join-our-team/careers/?gh_jid=6327790002) | Boston | Open | Software Engineer Intern (2023)
 | [Scale AI](https://boards.greenhouse.io/scaleai/jobs/4037917005) | San Francisco | Open | Software Engineering Intern (2023)
 | [Citadel](https://www.citadel.com/careers/details/software-engineer-intern-us/) | Chicago, New York | Open | Software Engineer Intern
+| [SpaceX](https://boards.greenhouse.io/spacex/jobs/6366051002?gh_jid=6366051002) | Multiple | Open | Software Engineer Intern
 
 ## Other Semesters
 
