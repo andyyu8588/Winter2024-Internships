@@ -78,12 +78,12 @@ To contribute:
 
 ## Contributors
 
-pittcsc <3
+pittcsc :heart:
 
-bsovs <3
+bsovs :heart:
 
-MugPand <3
+MugPand :heart:
 
-taziksh <3
+taziksh :heart:
 
 jrbjrb1212 :heart:
