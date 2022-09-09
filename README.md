@@ -45,7 +45,7 @@ To contribute:
 | [Amazon](https://www.amazon.jobs/en/teams/internships-for-students?offset=0&result_limit=10&sort=relevant&category%5B%5D=software-development&country%5B%5D=USA&country%5B%5D=CAN&distanceType=Mi&radius=24km&latitude=&longitude=&loc_group_id=&loc_query=&base_query=&city=&country=&region=&county=&query_options=&) | Many locations in Canada and US | Open | Front-End Engineer Internship, UX Researcher Intern, UX Designer Internship, Software Development Engineer Internship
 | [Tesla](https://www.tesla.com/en_CA/careers/search/?country=US&query=software%20Internship%20spring) | Palo Alto, Fremont, Austin | Open | Multiple positions |
 | ~~Google~~ | Waterloo, Toronto, Montreal | Closed | Software Engineering Intern, BS Winter 2023
-| ~~Cisco (Meraki)~~ | San Francisco | Open | Full Stack Software Engineer Intern - Winter/Spring 2023 (Meraki)
+| ~~Cisco (Meraki)~~ | San Francisco | Closed | Full Stack Software Engineer Intern - Winter/Spring 2023 (Meraki)
 | [Notion](https://boards.greenhouse.io/notion/jobs/5252467003) | San Francisco | Open | Software Engineer, Intern (Winter 2023)
 | [Uber](https://university-uber.icims.com/jobs/116847/job) | U.S.| Open | 2023 Software Engineer Internship |
 | [Databricks](https://www.databricks.com/company/careers/open-positions/job?gh_jid=6289910002) | San Francisco, Seattle | Open | Software Engineering Intern |
