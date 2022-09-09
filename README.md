@@ -66,11 +66,10 @@ To contribute:
 | [Stripe](https://stripe.com/jobs/search?query=Software+Engineering+Intern) | San Francisco, Seattle, New York | Open | Software Engineering Intern
 | [HubSpot](https://www.hubspot.com/careers/jobs?hubs_signup-cta=careers-nav-cta&page=1#office=remote;department=product-ux-engineering;roleType=intern;) | Remote - (US, Canada) | Open | Software Engineering Co-op
 | [Snowflake](https://careers.snowflake.com/us/en/search-results?rk=l-university-recruiting&sortBy=Most%20relevant) | San Mateo, Bellevue, Toronto | Open | SOFTWARE ENGINEER INTERN (INFRASTRUCTURE AUTOMATION, CORE/DATABASE ENGINEERING)
-| [PathAI](https://www.pathai.com/join-our-team/careers/?gh_jid=6327790002) | Boston | Open | Software Engineer Intern (2023)
-| [Scale AI](https://boards.greenhouse.io/scaleai/jobs/4037917005) | San Francisco | Open | Software Engineering Intern (2023)
-| [Citadel](https://www.citadel.com/careers/details/software-engineer-intern-us/) | Chicago, New York | Open | Software Engineer Intern
-| [SpaceX](https://boards.greenhouse.io/spacex/jobs/6366051002?gh_jid=6366051002) | Multiple | Open | Software Engineer Intern
-
+| [PathAI](https://www.pathai.com/join-our-team/careers/?gh_jid=6327790002) | Boston | Open | Software Engineer : Co-op/Internship 2023
+| [Scale AI](https://boards.greenhouse.io/scaleai/jobs/4037917005) | San Francisco | Open | Software Engineering Intern
+| [Citadel](https://www.citadel.com/careers/details/software-engineer-intern-us/) | Chicago, New York | Open | Software Engineer – Intern (US)
+| [SpaceX](https://boards.greenhouse.io/spacex/jobs/6366051002?gh_jid=6366051002) | Multiple | Open | SPRING 2023 SOFTWARE ENGINEERING INTERNSHIP/CO-OP
 ## Other Semesters
 
 [Summer 2023 - (Pitt-CSC List)](https://github.com/pittcsc/Summer2023-Internships)
@@ -86,3 +85,5 @@ bsovs <3
 MugPand <3
 
 taziksh <3
+
+jrbjrb1212 :heart:
