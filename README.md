@@ -70,6 +70,7 @@ To contribute:
 | [Scale AI](https://boards.greenhouse.io/scaleai/jobs/4037917005) | San Francisco | Open | Software Engineering Intern (2023)
 | [Citadel](https://www.citadel.com/careers/details/software-engineer-intern-us/) | Chicago, New York | Open | Software Engineer Intern
 | [Wealthsimple](https://jobs.lever.co/wealthsimple/15d31ef8-81dc-419c-b6b4-230d48e18f1c/apply?lever-source=LinkedIn) | Toronto or Remote (Canada) | Open | Software Engineering Intern (Winter 2023)
+| [Flexport](https://boards.greenhouse.io/flexport/jobs/4527140/) | Bellevue, Chicago, San Francisco | Open | Full-Stack Software Engineering Intern (Winter/Spring 2023)
 
 ## Other Semesters
 
