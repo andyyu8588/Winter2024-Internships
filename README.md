@@ -72,7 +72,7 @@ To contribute:
 | [Citadel](https://www.citadel.com/careers/details/software-engineer-intern-us/) | Chicago, New York | Software Engineer – Intern (US)
 | [SpaceX](https://boards.greenhouse.io/spacex/jobs/6366051002?gh_jid=6366051002) | Multiple | SPRING 2023 SOFTWARE ENGINEERING INTERNSHIP/CO-OP
 
-[⬆️ Back to Top ⬆️](#the-list-👔)
+[⬆️ Back to Top ⬆️](#the-list-)
 
 ## Other Semesters
 
