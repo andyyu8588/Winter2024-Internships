@@ -39,6 +39,7 @@ To contribute:
 :warning: **This repository is only for internships/co-ops in the United States, Canada or for Remote positions :earth_americas:.**
 
 ## The List 👔
+
 [⬇️ Jump to bottom ⬇️](#other-semesters)
 
 | Name  |  Location | Notes |
@@ -71,6 +72,8 @@ To contribute:
 | [Scale AI](https://boards.greenhouse.io/scaleai/jobs/4037917005) | San Francisco | Software Engineering Intern
 | [Citadel](https://www.citadel.com/careers/details/software-engineer-intern-us/) | Chicago, New York | Software Engineer – Intern (US)
 | [SpaceX](https://boards.greenhouse.io/spacex/jobs/6366051002?gh_jid=6366051002) | Multiple | SPRING 2023 SOFTWARE ENGINEERING INTERNSHIP/CO-OP
+| [Wealthsimple](https://jobs.lever.co/wealthsimple/15d31ef8-81dc-419c-b6b4-230d48e18f1c/apply) | Toronto or Remote (Canada) | Software Engineering Intern (Winter 2023)
+| [Flexport](https://boards.greenhouse.io/flexport/jobs/4527140/) | Bellevue, Chicago, San Francisco | Full-Stack Software Engineering Intern (Winter/Spring 2023)
 
 [⬆️ Back to Top ⬆️](#the-list-)
 
