@@ -83,15 +83,3 @@ To contribute:
 [Summer 2023 - (Pitt-CSC List)](https://github.com/pittcsc/Summer2023-Internships)
 
 [Fall 2022](https://github.com/bsovs/Fall2022-Internships)
-
-## Contributors
-
-pittcsc :heart:
-
-bsovs :heart:
-
-MugPand :heart:
-
-taziksh :heart:
-
-jrbjrb1212 :heart:
