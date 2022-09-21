@@ -57,11 +57,11 @@ To contribute:
 | ~~Instabase~~ | New York, Menlo Park, San Francisco | Software Engineer, Intern (Backend, Frontend/Fullstack)
 | [Figma](https://boards.greenhouse.io/figma/jobs/4595340004) | New York, San Francisco | Software Engineer Intern (2023)
 | [Datadog](https://app.ripplematch.com/job/datadog/692468c7/) | Boston, New York | Software Engineer - Intern
-| [LinkedIn](https://www.linkedin.com/jobs/search/?f_C=1337&geoId=103644278&keywords=intern%20winter%202023&location=United%20States&position=1&pageNum=0) | Sunnyvale | Backend - Systems and Infrastructure Engineer Intern, Software Engineer Intern, Mobile Engineer Intern, Frontend Engineer Intern
+| ~~LinkedIn~~ | Sunnyvale | Backend - Systems and Infrastructure Engineer Intern, Software Engineer Intern, Mobile Engineer Intern, Frontend Engineer Intern
 | [Jane Street](https://www.janestreet.com/join-jane-street/position/6280534002/) | New York | Software Engineer Internship, January - April (Co-op)
 | [Neuralink](https://boards.greenhouse.io/neuralink/jobs/5255513003) | Fremont | Software Engineer (Winter 2023 Internship)
-| [D2L](https://www.d2l.com/careers/jobs/software-developer-winter-2023-co-op-/4511783) | Kitchener, St. John's, Toronto, Vancouver, Winnipeg, Remote (Canada) | Software Developer, Winter 2023 Co-op
-| [A Thinking Ape](https://boards.greenhouse.io/athinkingape/jobs/4488770) | Vancouver | Software Engineer Co-op/Intern [Jan 2023)
+| ~~D2L~~ | Kitchener, St. John's, Toronto, Vancouver, Winnipeg, Remote (Canada) | Software Developer, Winter 2023 Co-op
+| ~~A Thinking Ape~~ | Vancouver | Software Engineer Co-op/Intern [Jan 2023)
 | [Konrad Group](https://www.konrad.com/careers/internships) | Toronto, Vancouver | Winter 2023 - Software Developer Intern (4 months)
 | [Verkada](https://www.verkada.com/careers/#open-positions) | San Mateo | Backend Software Engineering Intern, Embedded Systems Engineering Intern, Frontend Software Engineering Intern
 | [Hugging Face](https://apply.workable.com/huggingface/j/82D6C5689D/) | Remote (US) | Data Engineer for Speech/Audio Datasets (Internship)
