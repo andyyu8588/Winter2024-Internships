@@ -75,6 +75,7 @@ To contribute:
 | [Wealthsimple](https://jobs.lever.co/wealthsimple/15d31ef8-81dc-419c-b6b4-230d48e18f1c/apply) | Toronto or Remote (Canada) | Software Engineering Intern (Winter 2023)
 | [Flexport](https://boards.greenhouse.io/flexport/jobs/4527140/) | Bellevue, Chicago, San Francisco | Full-Stack Software Engineering Intern (Winter/Spring 2023)
 | [Siemens](https://jobs.siemens.com/disw/jobs?page=1&experienceLevels=Recent%20College%20Graduate%7CStudent%20(Not%20Yet%20Graduated)) | Us, Remote | Multiple positions (Spring 2023)
+| [Meta](https://www.metacareers.com/v2/jobs/1186161595265298/) | Menlo Park, CA | Software Engineer Internship/Co-Op |
 
 [⬆️ Back to Top ⬆️](#the-list-)
 
