@@ -66,7 +66,7 @@ To contribute:
 | [Verkada](https://www.verkada.com/careers/#open-positions) | San Mateo | Backend Software Engineering Intern, Embedded Systems Engineering Intern, Frontend Software Engineering Intern
 | [Hugging Face](https://apply.workable.com/huggingface/j/82D6C5689D/) | Remote (US) | Data Engineer for Speech/Audio Datasets (Internship)
 | [Stripe](https://stripe.com/jobs/search?query=Software+Engineering+Intern) | San Francisco, Seattle, New York | Software Engineering Intern
-| [HubSpot](https://www.hubspot.com/careers/jobs?hubs_signup-cta=careers-nav-cta&page=1#office=remote;department=product-ux-engineering;roleType=intern;) | Remote - (US, Canada) | Software Engineering Co-op
+| ~~HubSpot~~ | Remote - (US, Canada) | Software Engineering Co-op
 | [Snowflake](https://careers.snowflake.com/us/en/search-results?rk=l-university-recruiting&sortBy=Most%20relevant) | San Mateo, Bellevue, Toronto | SOFTWARE ENGINEER INTERN (INFRASTRUCTURE AUTOMATION, CORE/DATABASE ENGINEERING)
 | [PathAI](https://www.pathai.com/join-our-team/careers/?gh_jid=6327790002) | Boston | Software Engineer : Co-op/Internship 2023
 | [Scale AI](https://boards.greenhouse.io/scaleai/jobs/4037917005) | San Francisco | Software Engineering Intern
