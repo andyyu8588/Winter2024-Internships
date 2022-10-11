@@ -53,7 +53,7 @@ To contribute:
 | [Databricks](https://www.databricks.com/company/careers/open-positions/job?gh_jid=6289910002) | San Francisco, Seattle | Software Engineering Intern |
 | [Apple](https://jobs.apple.com/en-us/details/200389054/software-engineering-internship?team=STDNT) | Cupertino | Software Engineering Internship
 | [Cohere](https://jobs.lever.co/cohere/2252200f-104f-4d95-840d-c1d9cbcfda9b) | Toronto, Palo Alto, San Francisco, London, Remote | Machine Learning Intern (January 2023)
-| [Lyft](https://www.lyft.com/careers/early-talent) | New York, Seattle, San Francisco | Software Engineer Intern, Generalist, Frontend & Associate Product Manager
+| ~~Lyft~~ | New York, Seattle, San Francisco | Software Engineer Intern, Generalist, Frontend & Associate Product Manager
 | ~~Instabase~~ | New York, Menlo Park, San Francisco | Software Engineer, Intern (Backend, Frontend/Fullstack)
 | [Figma](https://boards.greenhouse.io/figma/jobs/4595340004) | New York, San Francisco | Software Engineer Intern (2023)
 | [Datadog](https://app.ripplematch.com/job/datadog/692468c7/) | Boston, New York | Software Engineer - Intern
