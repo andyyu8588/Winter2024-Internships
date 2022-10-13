@@ -77,6 +77,7 @@ To contribute:
 | [Siemens](https://jobs.siemens.com/disw/jobs?page=1&experienceLevels=Recent%20College%20Graduate%7CStudent%20(Not%20Yet%20Graduated)) | Us, Remote | Multiple positions (Spring 2023)
 | ~~Meta~~ | Menlo Park, CA | Software Engineer Internship/Co-Op |
 | [Gem](https://www.gem.com/company/careers?gh_jid=6337917002#jobboard) | San Francisco | Software Engineer - Winter 2023 Internship
+| [Roblox](https://jobs.roblox.com/careers/job/137453013589-software-engineer-intern-co-op-winter-2023--san-mateo-ca-united-states?domain=roblox.com&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | San Mateo | Software Engineer - Intern (Co-Op Winter 2023)
 
 [⬆️ Back to Top ⬆️](#the-list-)
 
