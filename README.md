@@ -68,7 +68,7 @@ To contribute:
 | [Stripe](https://stripe.com/jobs/search?query=Software+Engineering+Intern) | San Francisco, Seattle, New York | Software Engineering Intern
 | ~~HubSpot~~ | Remote - (US, Canada) | Software Engineering Co-op
 | [Snowflake](https://careers.snowflake.com/us/en/search-results?rk=l-university-recruiting&sortBy=Most%20relevant) | San Mateo, Bellevue, Toronto | SOFTWARE ENGINEER INTERN (INFRASTRUCTURE AUTOMATION, CORE/DATABASE ENGINEERING)
-| [PathAI](https://www.pathai.com/join-our-team/careers/?gh_jid=6327790002) | Boston | Software Engineer : Co-op/Internship 2023
+| ~~PathAI~~ | Boston | Software Engineer : Co-op/Internship 2023
 | [Scale AI](https://boards.greenhouse.io/scaleai/jobs/4037917005) | San Francisco | Software Engineering Intern
 | [Citadel](https://www.citadel.com/careers/details/software-engineer-intern-us/) | Chicago, New York | Software Engineer – Intern (US)
 | [SpaceX](https://boards.greenhouse.io/spacex/jobs/6366051002?gh_jid=6366051002) | Multiple | SPRING 2023 SOFTWARE ENGINEERING INTERNSHIP/CO-OP
