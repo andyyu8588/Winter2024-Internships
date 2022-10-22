@@ -48,7 +48,7 @@ To contribute:
 | [Tesla](https://www.tesla.com/en_CA/careers/search/?country=US&query=software%20Internship%20spring) | Palo Alto, Fremont, Austin | Multiple positions |
 | ~~Google~~ | Waterloo, Toronto, Montreal | Software Engineering Intern, BS Winter 2023
 | ~~Cisco (Meraki)~~ | San Francisco | Full Stack Software Engineer Intern - Winter/Spring 2023 (Meraki)
-| [Notion](https://boards.greenhouse.io/notion/jobs/5252467003) | San Francisco | Software Engineer, Intern (Winter 2023)
+| ~~Notion~~ | San Francisco | Software Engineer, Intern (Winter 2023)
 | [Uber](https://university-uber.icims.com/jobs/116847/job) | U.S.| 2023 Software Engineer Internship |
 | [Databricks](https://www.databricks.com/company/careers/open-positions/job?gh_jid=6289910002) | San Francisco, Seattle | Software Engineering Intern |
 | [Apple](https://jobs.apple.com/en-us/details/200389054/software-engineering-internship?team=STDNT) | Cupertino | Software Engineering Internship
