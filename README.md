@@ -64,20 +64,20 @@ To contribute:
 | ~~A Thinking Ape~~ | Vancouver | Software Engineer Co-op/Intern [Jan 2023)
 | [Konrad Group](https://www.konrad.com/careers/internships) | Toronto, Vancouver | Winter 2023 - Software Developer Intern (4 months)
 | [Verkada](https://www.verkada.com/careers/#open-positions) | San Mateo | Backend Software Engineering Intern, Embedded Systems Engineering Intern, Frontend Software Engineering Intern
-| [Hugging Face](https://apply.workable.com/huggingface/j/82D6C5689D/) | Remote (US) | Data Engineer for Speech/Audio Datasets (Internship)
+| ~~Hugging Face~~ | Remote (US) | Data Engineer for Speech/Audio Datasets (Internship)
 | [Stripe](https://stripe.com/jobs/search?query=Software+Engineering+Intern) | San Francisco, Seattle, New York | Software Engineering Intern
 | ~~HubSpot~~ | Remote - (US, Canada) | Software Engineering Co-op
 | [Snowflake](https://careers.snowflake.com/us/en/search-results?rk=l-university-recruiting&sortBy=Most%20relevant) | San Mateo, Bellevue, Toronto | SOFTWARE ENGINEER INTERN (INFRASTRUCTURE AUTOMATION, CORE/DATABASE ENGINEERING)
 | ~~PathAI~~ | Boston | Software Engineer : Co-op/Internship 2023
-| [Scale AI](https://boards.greenhouse.io/scaleai/jobs/4037917005) | San Francisco | Software Engineering Intern
+| ~~Scale AI~~ | San Francisco | Software Engineering Intern
 | [Citadel](https://www.citadel.com/careers/details/software-engineer-intern-us/) | Chicago, New York | Software Engineer – Intern (US)
 | [SpaceX](https://boards.greenhouse.io/spacex/jobs/6366051002?gh_jid=6366051002) | Multiple | SPRING 2023 SOFTWARE ENGINEERING INTERNSHIP/CO-OP
 | ~~Wealthsimple~~ | Toronto or Remote (Canada) | Software Engineering Intern (Winter 2023)
 | [Flexport](https://boards.greenhouse.io/flexport/jobs/4527140/) | Bellevue, Chicago, San Francisco | Full-Stack Software Engineering Intern (Winter/Spring 2023)
 | [Siemens](https://jobs.siemens.com/disw/jobs?page=1&experienceLevels=Recent%20College%20Graduate%7CStudent%20(Not%20Yet%20Graduated)) | Us, Remote | Multiple positions (Spring 2023)
 | ~~Meta~~ | Menlo Park, CA | Software Engineer Internship/Co-Op |
-| [Gem](https://www.gem.com/company/careers?gh_jid=6337917002#jobboard) | San Francisco | Software Engineer - Winter 2023 Internship
-| [Roblox](https://jobs.roblox.com/careers/job/137453013589-software-engineer-intern-co-op-winter-2023--san-mateo-ca-united-states?domain=roblox.com&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | San Mateo | Software Engineer - Intern (Co-Op Winter 2023)
+| ~~Gem~~ | San Francisco | Software Engineer - Winter 2023 Internship
+| ~~Roblox~~ | San Mateo | Software Engineer - Intern (Co-Op Winter 2023)
 
 [⬆️ Back to Top ⬆️](#the-list-)
 
