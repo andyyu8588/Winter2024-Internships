@@ -56,7 +56,7 @@ To contribute:
 | ~~Lyft~~ | New York, Seattle, San Francisco | Software Engineer Intern, Generalist, Frontend & Associate Product Manager
 | ~~Instabase~~ | New York, Menlo Park, San Francisco | Software Engineer, Intern (Backend, Frontend/Fullstack)
 | ~~Figma~~ | New York, San Francisco | Software Engineer Intern (2023)
-| [Datadog](https://app.ripplematch.com/job/datadog/692468c7/) | Boston, New York | Software Engineer - Intern
+| ~~Datadog~~ | Boston, New York | Software Engineer - Intern
 | ~~LinkedIn~~ | Sunnyvale | Backend - Systems and Infrastructure Engineer Intern, Software Engineer Intern, Mobile Engineer Intern, Frontend Engineer Intern
 | ~~Jane Street~~ | New York | Software Engineer Internship, January - April (Co-op)
 | [Neuralink](https://boards.greenhouse.io/neuralink/jobs/5255513003) | Fremont | Software Engineer (Winter 2023 Internship)
@@ -79,6 +79,7 @@ To contribute:
 | ~~Gem~~ | San Francisco | Software Engineer - Winter 2023 Internship
 | ~~Roblox~~ | San Mateo | Software Engineer - Intern (Co-Op Winter 2023)
 | [Square](https://careers.squareup.com/us/en/jobs?type%5B%5D=Intern) | San Francisco, Toronto, Remote | Mobile Developer Intern, Software Engineer Intern
+| [PagerDuty](https://careers.pagerduty.com/jobs/cap-software-developer-intern-winter-2023-united-states) | Remote(US or Canada) | CAP Software Developer Intern(US) CAP Android Developer Intern(Canada)
 
 [⬆️ Back to Top ⬆️](#the-list-)
 
