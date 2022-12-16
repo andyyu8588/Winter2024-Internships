@@ -62,8 +62,8 @@ To contribute:
 | [Neuralink](https://boards.greenhouse.io/neuralink/jobs/5255513003) | Fremont | Software Engineer (Winter 2023 Internship)
 | ~~D2L~~ | Kitchener, St. John's, Toronto, Vancouver, Winnipeg, Remote (Canada) | Software Developer, Winter 2023 Co-op
 | ~~A Thinking Ape~~ | Vancouver | Software Engineer Co-op/Intern [Jan 2023)
-| [Konrad Group](https://www.konrad.com/careers/internships) | Toronto, Vancouver | Winter 2023 - Software Developer Intern (4 months)
-| [Verkada](https://www.verkada.com/careers/#open-positions) | San Mateo | Backend Software Engineering Intern, Embedded Systems Engineering Intern, Frontend Software Engineering Intern
+| ~~Konrad Group~~ | Toronto, Vancouver | Winter 2023 - Software Developer Intern (4 months)
+| ~~Verkada~~ | San Mateo | Backend Software Engineering Intern, Embedded Systems Engineering Intern, Frontend Software Engineering Intern
 | ~~Hugging Face~~ | Remote (US) | Data Engineer for Speech/Audio Datasets (Internship)
 | ~~Stripe~~ | San Francisco, Seattle, New York | Software Engineering Intern
 | ~~HubSpot~~ | Remote - (US, Canada) | Software Engineering Co-op
@@ -78,9 +78,9 @@ To contribute:
 | ~~Meta~~ | Menlo Park, CA | Software Engineer Internship/Co-Op |
 | ~~Gem~~ | San Francisco | Software Engineer - Winter 2023 Internship
 | ~~Roblox~~ | San Mateo | Software Engineer - Intern (Co-Op Winter 2023)
-| [Square](https://careers.squareup.com/us/en/jobs?type%5B%5D=Intern) | San Francisco, Toronto, Remote | Mobile Developer Intern, Software Engineer Intern
+| ~~Square~~ | San Francisco, Toronto, Remote | Mobile Developer Intern, Software Engineer Intern
 | [PagerDuty](https://careers.pagerduty.com/jobs/cap-software-developer-intern-winter-2023-united-states) | Remote(US or Canada) | CAP Software Developer Intern(US) CAP Android Developer Intern(Canada)
-| [AMD](https://careers.amd.com/careers-home/jobs?keywords=software&country=United%20States%7CCanada&page=1&categories=Student%20%2F%20Intern%20%2F%20Temp&sortBy=relevance) | Multiple US | Multiple positions
+| ~~AMD~~ | Multiple US | Multiple positions
 | [Garmin](https://careers.garmin.com/careers-home/jobs?page=1&keywords=intern&tags3=Intern&categories=Engineering) | Multiple US | Multiple positions
 
 [⬆️ Back to Top ⬆️](#the-list-)
