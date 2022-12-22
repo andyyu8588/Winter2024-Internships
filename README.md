@@ -49,7 +49,7 @@ To contribute:
 | ~~Google~~ | Waterloo, Toronto, Montreal | Software Engineering Intern, BS Winter 2023
 | ~~Cisco (Meraki)~~ | San Francisco | Full Stack Software Engineer Intern - Winter/Spring 2023 (Meraki)
 | ~~Notion~~ | San Francisco | Software Engineer, Intern (Winter 2023)
-| [Uber](https://university-uber.icims.com/jobs/116847/job) | U.S.| 2023 Software Engineer Internship |
+| ~~Uber~~ | U.S.| 2023 Software Engineer Internship |
 | ~~Databricks~~ | San Francisco, Seattle | Software Engineering Intern |
 | [Apple](https://jobs.apple.com/en-us/details/200389054/software-engineering-internship?team=STDNT) | Cupertino | Software Engineering Internship
 | [Cohere](https://jobs.lever.co/cohere/2252200f-104f-4d95-840d-c1d9cbcfda9b) | Toronto, Palo Alto, San Francisco, London, Remote | Machine Learning Intern (January 2023)
@@ -59,7 +59,7 @@ To contribute:
 | ~~Datadog~~ | Boston, New York | Software Engineer - Intern
 | ~~LinkedIn~~ | Sunnyvale | Backend - Systems and Infrastructure Engineer Intern, Software Engineer Intern, Mobile Engineer Intern, Frontend Engineer Intern
 | ~~Jane Street~~ | New York | Software Engineer Internship, January - April (Co-op)
-| [Neuralink](https://boards.greenhouse.io/neuralink/jobs/5255513003) | Fremont | Software Engineer (Winter 2023 Internship)
+| ~~Neuralink~~ | Fremont | Software Engineer (Winter 2023 Internship)
 | ~~D2L~~ | Kitchener, St. John's, Toronto, Vancouver, Winnipeg, Remote (Canada) | Software Developer, Winter 2023 Co-op
 | ~~A Thinking Ape~~ | Vancouver | Software Engineer Co-op/Intern [Jan 2023)
 | ~~Konrad Group~~ | Toronto, Vancouver | Winter 2023 - Software Developer Intern (4 months)
