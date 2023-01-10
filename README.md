@@ -1,5 +1,5 @@
 # Winter2023-Internships
-Collection of Winter 2023 tech internships!
+Archived collection of Winter 2023 tech internships! Winter 2024 collection coming soon!
 
 Shoutout to GitHub user **[bsovs](https://github.com/bsovs)** and **[The Pitt CS Club](https://github.com/pittcsc)** for developing the initial framework and list.
 
@@ -44,15 +44,15 @@ To contribute:
 
 | Name  |  Location | Notes |
 |---|---|-------------|
-| [Amazon](https://www.amazon.jobs/en/teams/internships-for-students?offset=0&result_limit=10&sort=relevant&category%5B%5D=software-development&country%5B%5D=USA&country%5B%5D=CAN&distanceType=Mi&radius=24km&latitude=&longitude=&loc_group_id=&loc_query=&base_query=&city=&country=&region=&county=&query_options=&) | Many locations in Canada and US | Front-End Engineer Internship, UX Researcher Intern, UX Designer Internship, Software Development Engineer Internship
-| [Tesla](https://www.tesla.com/en_CA/careers/search/?country=US&query=software%20Internship%20spring) | Palo Alto, Fremont, Austin | Multiple positions |
+| ~~Amazon~~ | Many locations in Canada and US | Front-End Engineer Internship, UX Researcher Intern, UX Designer Internship, Software Development Engineer Internship
+| ~~Tesla~~ | Palo Alto, Fremont, Austin | Multiple positions |
 | ~~Google~~ | Waterloo, Toronto, Montreal | Software Engineering Intern, BS Winter 2023
 | ~~Cisco (Meraki)~~ | San Francisco | Full Stack Software Engineer Intern - Winter/Spring 2023 (Meraki)
 | ~~Notion~~ | San Francisco | Software Engineer, Intern (Winter 2023)
 | ~~Uber~~ | U.S.| 2023 Software Engineer Internship |
 | ~~Databricks~~ | San Francisco, Seattle | Software Engineering Intern |
-| [Apple](https://jobs.apple.com/en-us/details/200389054/software-engineering-internship?team=STDNT) | Cupertino | Software Engineering Internship
-| [Cohere](https://jobs.lever.co/cohere/2252200f-104f-4d95-840d-c1d9cbcfda9b) | Toronto, Palo Alto, San Francisco, London, Remote | Machine Learning Intern (January 2023)
+| ~~Apple~~ | Cupertino | Software Engineering Internship
+| ~~Cohere~~ | Toronto, Palo Alto, San Francisco, London, Remote | Machine Learning Intern (January 2023)
 | ~~Lyft~~ | New York, Seattle, San Francisco | Software Engineer Intern, Generalist, Frontend & Associate Product Manager
 | ~~Instabase~~ | New York, Menlo Park, San Francisco | Software Engineer, Intern (Backend, Frontend/Fullstack)
 | ~~Figma~~ | New York, San Francisco | Software Engineer Intern (2023)
@@ -70,18 +70,18 @@ To contribute:
 | ~~Snowflake~~ | San Mateo, Bellevue, Toronto | SOFTWARE ENGINEER INTERN (INFRASTRUCTURE AUTOMATION, CORE/DATABASE ENGINEERING)
 | ~~PathAI~~ | Boston | Software Engineer : Co-op/Internship 2023
 | ~~Scale AI~~ | San Francisco | Software Engineering Intern
-| [Citadel](https://www.citadel.com/careers/details/software-engineer-intern-us/) | Chicago, New York | Software Engineer – Intern (US)
-| [SpaceX](https://boards.greenhouse.io/spacex/jobs/6366051002?gh_jid=6366051002) | Multiple | SPRING 2023 SOFTWARE ENGINEERING INTERNSHIP/CO-OP
+| ~~Citadel~~ | Chicago, New York | Software Engineer – Intern (US)
+| ~~SpaceX~~ | Multiple | SPRING 2023 SOFTWARE ENGINEERING INTERNSHIP/CO-OP
 | ~~Wealthsimple~~ | Toronto or Remote (Canada) | Software Engineering Intern (Winter 2023)
-| [Flexport](https://boards.greenhouse.io/flexport/jobs/4527140/) | Bellevue, Chicago, San Francisco | Full-Stack Software Engineering Intern (Winter/Spring 2023)
-| [Siemens](https://jobs.siemens.com/disw/jobs?page=1&experienceLevels=Recent%20College%20Graduate%7CStudent%20(Not%20Yet%20Graduated)) | Us, Remote | Multiple positions (Spring 2023)
+| ~~Flexport~~ | Bellevue, Chicago, San Francisco | Full-Stack Software Engineering Intern (Winter/Spring 2023)
+| ~~Siemens~~ | Us, Remote | Multiple positions (Spring 2023)
 | ~~Meta~~ | Menlo Park, CA | Software Engineer Internship/Co-Op |
 | ~~Gem~~ | San Francisco | Software Engineer - Winter 2023 Internship
 | ~~Roblox~~ | San Mateo | Software Engineer - Intern (Co-Op Winter 2023)
 | ~~Square~~ | San Francisco, Toronto, Remote | Mobile Developer Intern, Software Engineer Intern
-| [PagerDuty](https://careers.pagerduty.com/jobs/cap-software-developer-intern-winter-2023-united-states) | Remote(US or Canada) | CAP Software Developer Intern(US) CAP Android Developer Intern(Canada)
+| ~~PagerDuty~~ | Remote(US or Canada) | CAP Software Developer Intern(US) CAP Android Developer Intern(Canada)
 | ~~AMD~~ | Multiple US | Multiple positions
-| [Garmin](https://careers.garmin.com/careers-home/jobs?page=1&keywords=intern&tags3=Intern&categories=Engineering) | Multiple US | Multiple positions
+| ~~Garmin~~ | Multiple US | Multiple positions
 
 [⬆️ Back to Top ⬆️](#the-list-)
 
